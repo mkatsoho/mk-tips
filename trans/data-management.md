@@ -8,11 +8,13 @@ These is a guide for data management using `the Box`.
 
 Please add <yzc0149> as co-owner for your new dataset directory. So, he can back up the folder to a portable disk offline.
 
+![Add a co-owner](./add_co-owner.gif)
 
 ### How to change the owner for an existing dataset before you graduate? (#change-owner)
 
 Suggest you change the owner from you to <yzc0149> 1 month or earlier before you graduate.  
 
+![Change the owner](./change-owner.gif)
  
 ### How to add a new dataset? (#new-dataset)
 
